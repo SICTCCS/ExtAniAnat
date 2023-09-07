@@ -54,3 +54,5 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
 - Now that you copied the code over to your file, you will see a "iframe" tag.
   ![ ](ImagesforMarkdown/iframe.png)
+- remove the link from inside the iframe, and replace it with the link from your new animal. (Tip: in your link, put the word "embedded" after project, your link will not work otherwise)
+- 
