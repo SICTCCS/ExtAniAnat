@@ -21,14 +21,14 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - The "Question" sprite contains about 90% of the code for the game, you will not need to mess with the code for the other sprites. <br>
 ![ ](ImagesforMarkdown/mainpage.png)
 - If you are on this page, you are caught up
-- Look to the right, there will be an icon with a image icon, click it and change the backdrop to the image of the animal you want.
+- Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want.
 - The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.
 - If there are extras, delete the button sprite from the list below.
 - If you need more buttons, right click a sprite from the list and you should be given the option to duplicate it. (click the sprite from the list and change the global costume picker variable to a new one not already taken by another sprite.
 - Now, here is the time consuming part, You will need to go to the sprites list and change all the old names to the new names of the animal parts of your new animal.
 - Then, click on the "Question" sprite, to the left of your screen, there will be a costunes tab, click it.
 - Change the text on each costume to the sprite names you chose, this will make the game ask the user the question of which sprite to click on.
-- 
+
 
 
 **Step 3, Changing the Code** <br>
@@ -42,5 +42,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 
 
 **Step 4, Updating the Website** <br>
-
+-The way that the vet students access this game is through a website we made, the scratch project is embeded into html through an iframe tag. If that sounds like a lot, don't worry, its just a lot of copying and pasting.
+- Go to this github [Repo](https://github.com/SICTCCS/AnimalQuiz), this is where the website is being hosted.
+- Click the green "Code" button then you should have the option to download the website code as a zip file.
+- extract it and open the folder in a IED (VS Code, Replit, Ect.)
 - 
