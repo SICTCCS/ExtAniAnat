@@ -46,5 +46,9 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to this github [Repo](https://github.com/SICTCCS/AnimalQuiz), this is where the website is being hosted.
 - Click the green "Code" button then you should have the option to download the website code as a zip file.
 - extract it and open the folder in a IED (VS Code, Replit, Ect.)
-- ![ ](ImagesforMarkdown/codeimg.png)
+![ ](ImagesforMarkdown/codeimg.png)
 - These should be the files you are seeing.
+- There should be a file for your animal, it may sound weird but the only updated files are the cow.html and index.html so for you animal, delete everything in that file.
+- Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
+- Now that you copied the code over to your file, you will see a "iframe" tag.
+  
