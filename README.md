@@ -27,7 +27,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - If there are extras, delete the button sprite from the list below.
 - If you need more buttons, right click a sprite from the list and you should be given the option to duplicate it. (click the sprite from the list and change the global costume picker variable to a new one not already taken by another sprite.
 - Now, here is the time consuming part, You will need to go to the sprites list and change all the old names to the new names of the animal parts of your new animal.
-- Then, click on the "Question" sprite, to the left of your screen, there will be a costunes tab, click it.
+- Then, click on the "Question" sprite, to the left of your screen, there will be a costumes tab, click it.
 - Change the text on each costume to the sprite names you chose, this will make the game ask the user the question of which sprite to click on.
 
 
