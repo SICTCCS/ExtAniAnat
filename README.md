@@ -8,3 +8,4 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 **Step 1, Joining Scrach** <br>
 - Go to Scratch.com
 - Click "Join Scratch" and create an account
+- [Scratch Project](https://scratch.mit.edu/projects/885605066)
