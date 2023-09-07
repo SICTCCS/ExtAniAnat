@@ -19,5 +19,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Now that you are inside the file, look to the left side of the screen where it says "sprites"
 - There are going to be many sprites, but the main sprite you are going to be messing with is called "Question"
 - The "Question" sprite contains about 90% of the code for the game, you will not need to mess with the code for the other sprites. <br>
-![If you are on this screen, you are caught up](ImagesforMarkdown/mainpage.png)
+![ ](ImagesforMarkdown/mainpage.png)
+<br>
 - If you are on this page, you are caught up
+
+  Hello
