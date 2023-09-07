@@ -20,6 +20,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - There are going to be many sprites, but the main sprite you are going to be messing with is called "Question"
 - The "Question" sprite contains about 90% of the code for the game, you will not need to mess with the code for the other sprites. <br>
 ![ ](ImagesforMarkdown/mainpage.png)
+
 - If you are on this page, you are caught up
 - Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want.
 - The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.
@@ -47,6 +48,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Click the green "Code" button then you should have the option to download the website code as a zip file.
 - extract it and open the folder in a IED (VS Code, Replit, Ect.)
 ![ ](ImagesforMarkdown/codeimg.png)
+
 - These should be the files you are seeing.
 - There should be a file for your animal, it may sound weird but the only updated files are the cow.html and index.html so for you animal, delete everything in that file.
 - Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
