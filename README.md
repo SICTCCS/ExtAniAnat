@@ -36,6 +36,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Luckly for you, if you get confused with what the code does, I commented almost all of the code to tell you what it does. Before you change anything, I would recommend that you read my comments first.
 - Most of this code does NOT need to be touched, the only code you need to mess with is code that uses the variables: Points, Global CostumePicker, and Random Number.
 - Look at the amount of sprites you have, change "random number to pick a number between 1 and (the amount of sprites you have).
+  ![ ](ImagesforMarkdown/random.png)
 - Change the variable "Points" to the amount of sprites you have.
 - The leaderboard blocks should not need to be touched.
 - That should be it with the code you need to change, if you are still having issues, the code is labeled and should be easy to troubleshoot. If you are still having problems, ask Bander for help or he can ask me to help.
