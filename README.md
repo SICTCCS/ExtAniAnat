@@ -38,6 +38,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Look at the amount of sprites you have, change "random number to pick a number between 1 and (the amount of sprites you have).
   ![ ](ImagesforMarkdown/random.png)
 - Change the variable "Points" to the amount of sprites you have.
+  ![ ](ImagesforMarkdown/points.png)
+- This is an example of what one of the "points" blocks look like, there are a lot of these in the code so make sure to change all of them.
 - The leaderboard blocks should not need to be touched.
 - That should be it with the code you need to change, if you are still having issues, the code is labeled and should be easy to troubleshoot. If you are still having problems, ask Bander for help or he can ask me to help.
 - This should be it for coding.
