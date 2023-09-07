@@ -14,11 +14,19 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Congradulations! You made a copy of the project and are ready to start making your animal.
 
   
-**Step 2, Changing the code** <br>
+**Step 2, Setting up the Project** <br>
 - Open the remix file under the "My Stuff" section in your account.
-- Now that you are inside the file, look to the left side of the screen where it says "sprites"
+- Now that you are inside the file, look to the right side of the screen where it says "sprites"
 - There are going to be many sprites, but the main sprite you are going to be messing with is called "Question"
 - The "Question" sprite contains about 90% of the code for the game, you will not need to mess with the code for the other sprites. <br>
 ![ ](ImagesforMarkdown/mainpage.png)
 - If you are on this page, you are caught up
-  Hello
+- Look to the right, there will be an icon with a image icon, click it and change the backdrop to the image of the animal you want.
+- The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.
+- If there are extras, delete the button sprite from the list below.
+- If you need more buttons, right click a sprite from the list and you should be given the option to duplicate it. (click the sprite from the list and change the global costume picker variable to a new one not already taken by another sprite.
+
+
+
+**Step 2, Changing the Code** <br>
+- 
