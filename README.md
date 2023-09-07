@@ -46,4 +46,5 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to this github [Repo](https://github.com/SICTCCS/AnimalQuiz), this is where the website is being hosted.
 - Click the green "Code" button then you should have the option to download the website code as a zip file.
 - extract it and open the folder in a IED (VS Code, Replit, Ect.)
-- 
+- ![ ](ImagesforMarkdown/codeimg.png)
+- These should be the files you are seeing.
