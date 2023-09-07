@@ -53,4 +53,4 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - There should be a file for your animal, it may sound weird but the only updated files are the cow.html and index.html so for you animal, delete everything in that file.
 - Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
 - Now that you copied the code over to your file, you will see a "iframe" tag.
-  
+  ![ ](ImagesforMarkdown/iframe.png)
