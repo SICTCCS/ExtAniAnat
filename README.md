@@ -25,8 +25,22 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.
 - If there are extras, delete the button sprite from the list below.
 - If you need more buttons, right click a sprite from the list and you should be given the option to duplicate it. (click the sprite from the list and change the global costume picker variable to a new one not already taken by another sprite.
+- Now, here is the time consuming part, You will need to go to the sprites list and change all the old names to the new names of the animal parts of your new animal.
+- Then, click on the "Question" sprite, to the left of your screen, there will be a costunes tab, click it.
+- Change the text on each costume to the sprite names you chose, this will make the game ask the user the question of which sprite to click on.
+- 
 
 
+**Step 3, Changing the Code** <br>
+- Luckly for you, if you get confused with what the code does, I commented almost all of the code to tell you what it does. Before you change anything, I would recommend that you read my comments first.
+- Most of this code does NOT need to be touched, the only code you need to mess with is code that uses the variables: Points, Global CostumePicker, and Random Number.
+- Look at the amount of sprites you have, change "random number to pick a number between 1 and (the amount of sprites you have).
+- Change the variable "Points" to the amount of sprites you have.
+- The leaderboard blocks should not need to be touched.
+- That should be it with the code you need to change, if you are still having issues, the code is labeled and should be easy to troubleshoot. If you are still having problems, ask Bander for help or he can ask me to help.
+- This should be it for coding.
 
-**Step 2, Changing the Code** <br>
+
+**Step 4, Updating the Website** <br>
+
 - 
