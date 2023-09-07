@@ -54,5 +54,10 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
 - Now that you copied the code over to your file, you will see a "iframe" tag.
   ![ ](ImagesforMarkdown/iframe.png)
-- remove the link from inside the iframe, and replace it with the link from your new animal. (Tip: in your link, put the word "embedded" after project, your link will not work otherwise)
-- 
+  
+- Remove the link from inside the iframe, and replace it with the link from your new animal. (Tip: In your link, put the word "embedded" after projects, your link will not work otherwise, look at the image above for reference.)
+- In each of the files, uncomment your animal's file name from the class "nav", this way it will show up on the navagation bar when you view the website.
+- Thats all you need to do with the website code!
+- Go back to the github repo and press the "add files" button. Upload the whole folder to the repo and you should have the option to merge it with the old files. If that doesnt work, just add the new files and go in to delete the old ones manually. (If you do not have the option to upload files, that means your account does not have permission to upload to the repo, ask Bander to make you an editor).
+- Thats it! Thanks for helping me finish these games.
+- If you have any questions, ask Bander or contact me through my [Website](https://andrewscheller2006.github.io/Portfolio/contact.html).
