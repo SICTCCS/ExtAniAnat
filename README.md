@@ -9,6 +9,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to Scratch.com
 - Click "Join Scratch" and create an account
 - Then, click this link to go to the [Scratch Project](https://scratch.mit.edu/projects/885605066)
+- <a href="https://scratch.mit.edu/projects/885605066" target="_blank">Hello, world!</a>
 - Click the "See inside button" on the project page.
 - If you are signed into your account, there should be a remix button on the top of the page, click that to make a copy.
 - Congradulations! You made a copy of the project and are ready to start making your animal.
