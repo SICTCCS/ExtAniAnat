@@ -9,7 +9,6 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Go to Scratch.com
 - Click "Join Scratch" and create an account
 - Then, click this link to go to the [Scratch Project](https://scratch.mit.edu/projects/885605066)
-- test <a href="https://google.com" target="_blank"> ***Click Link*** </a>
 - Click the "See inside button" on the project page.<br>
 ![ ](ImagesforMarkdown/seeinside.png)
 - If you are signed into your account, there should be a remix button on the top of the page, click that to make a copy.<br>
