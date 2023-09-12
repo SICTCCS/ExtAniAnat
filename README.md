@@ -29,6 +29,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
   <a href="ImagesforMarkdown/goat.PNG" download>Goat Background Download</a> | <a href="ImagesforMarkdown/sheep.PNG" download>Sheep Background Download</a> | <a href="ImagesforMarkdown/pig.PNG" download>Pig Background Download</a> | <a href="ImagesforMarkdown/Horse.png" download>Horse Background Download</a> | <a href="ImagesforMarkdown/dog.png" download>Dog Background Download</a> | <a href="ImagesforMarkdown/cat.png" download>Cat Background Download</a>
 - Make sure to transform the animal image to a reasonable size. Keeping in consideration we have to fit the buttons and question at the top.
 - Load up the Google Slides provided. This will allow you to know where exactly to move the buttons to and what to name them.
+  [Animals (Google Slides)](https://docs.google.com/presentation/d/1W9TLpBbRJW16OxwPiJRk59h7bLMFIbT_2sgsnoBHBMQ/edit?usp=sharing)
 - The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.<br>
 ![ ](ImagesforMarkdown/movebutton.png)
 - If there are extras, delete the button sprite from the list below.
