@@ -48,7 +48,7 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 
 
 **Step 4, Updating the Website** <br>
--The way that the vet students access this game is through a website we made, the scratch project is embeded into html through an iframe tag. If that sounds like a lot, don't worry, its just a lot of copying and pasting.
+- The way that the vet students access this game is through a website we made, the scratch project is embeded into html through an iframe tag. If that sounds like a lot, don't worry, its just a lot of copying and pasting.
 - Go to this github [Repo](https://github.com/SICTCCS/AnimalQuiz), this is where the website is being hosted.
 - Click the green "Code" button then you should have the option to download the website code as a zip file.
 - extract it and open the folder in a IED (VS Code, Replit, Ect.)
