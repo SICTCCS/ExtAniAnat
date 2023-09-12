@@ -64,7 +64,9 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Remove the link from inside the iframe, and replace it with the link from your new animal. (Tip: In your link, put the word "embedded" after projects, your link will not work otherwise, look at the image above for reference.)
 - In each of the files, uncomment your animal's file name from the class "nav", this way it will show up on the navagation bar when you view the website.
   ```
-  <a href="YourAnimal.html"><i class="fa fa-phone"></i>  YourAminal</a>
+  <li>
+  <a href="YourAnimal.html">YourAnimal</a>
+  </li>
   ```
 ![ ](ImagesforMarkdown/cow.png)
 - This is what your animal's webpage should look like when its done.
