@@ -6,7 +6,8 @@ External Animal Anatomy Quiz Game
 This quiz was made using scratch. All of the core mechanics of the game are all built out and ready to be copy and pasted to the other animals.
 
 
-**Step 1, Joining Scrach** <br>
+# **Step 1, Joining Scrach** <br>
+---
 - Go to Scratch.com
 - Click "Join Scratch" and create an account
 - Then, click this link to go to the [Scratch Project](https://scratch.mit.edu/projects/885605066)
