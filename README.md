@@ -24,14 +24,16 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 ![ ](ImagesforMarkdown/mainpage.png)
 
 - If you are on this page, you are caught up
-- Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want.
-- The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.
+- Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want (use the animal images provdied).
+- Make sure to transform the animal image to a reasonable size. Keeping in consideration we have to fit the buttons and question at the top.
+- Load up the Google Slides provided. This will allow you to know where exactly to move the buttons to and what to name them.
+- The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.<br>
+![ ](ImagesforMarkdown/movebutton.png)
 - If there are extras, delete the button sprite from the list below.
 - If you need more buttons, right click a sprite from the list and you should be given the option to duplicate it. (click the sprite from the list and change the global costume picker variable to a new one not already taken by another sprite.
 - Now, here is the time consuming part, You will need to go to the sprites list and change all the old names to the new names of the animal parts of your new animal.
 - Then, click on the "Question" sprite, to the left of your screen, there will be a costumes tab, click it.
 - Change the text on each costume to the sprite names you chose, this will make the game ask the user the question of which sprite to click on.
-
 
 
 **Step 3, Changing the Code** <br>
