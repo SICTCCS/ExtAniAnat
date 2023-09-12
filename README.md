@@ -56,8 +56,9 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - There should be a file for your animal, it may sound weird but the only updated files are the cow.html and index.html so for you animal, delete everything in that file.
 - Go to cow.html and press (ctrl + a) and copy and paste it into your animal's file. This is the updated template.
 - Now that you copied the code over to your file, you will see a "iframe" tag.
-  ![ ](ImagesforMarkdown/iframe.png)
-  
+  ```
+ <iframe src="https://scratch.mit.edu/projects/embed/885605066/" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  ```
 - Remove the link from inside the iframe, and replace it with the link from your new animal. (Tip: In your link, put the word "embedded" after projects, your link will not work otherwise, look at the image above for reference.)
 - In each of the files, uncomment your animal's file name from the class "nav", this way it will show up on the navagation bar when you view the website.
 ![ ](ImagesforMarkdown/cow.png)
