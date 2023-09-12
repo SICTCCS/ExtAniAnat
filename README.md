@@ -5,7 +5,6 @@ External Animal Anatomy Quiz Game
 # How to add more Animals
 This quiz was made using scratch. All of the core mechanics of the game are all built out and ready to be copy and pasted to the other animals.
 
-<a href="ImagesforMarkdown/goat.PNG" download>Sheep Background Download</a>
 
 **Step 1, Joining Scrach** <br>
 - Go to Scratch.com
@@ -26,7 +25,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 ![ ](ImagesforMarkdown/mainpage.png)
 
 - If you are on this page, you are caught up
-- Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want (use the animal images provdied).
+- Look to the right, there will be an button with a image icon, click it and change the backdrop to the image of the animal you want (use the animal images provided).
+  <a href="ImagesforMarkdown/goat.PNG" download>Goat Background Download</a> | <a href="ImagesforMarkdown/sheep.PNG" download>Sheep Background Download</a> | <a href="ImagesforMarkdown/pig.PNG" download>Sheep Background Download</a> |
 - Make sure to transform the animal image to a reasonable size. Keeping in consideration we have to fit the buttons and question at the top.
 - Load up the Google Slides provided. This will allow you to know where exactly to move the buttons to and what to name them.
 - The buttons on the screen are draggable. Move them to the location of where your new animal's body parts are.<br>
