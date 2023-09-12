@@ -18,7 +18,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Congradulations! You made a copy of the project and are ready to start making your animal.
 
   
-**Step 2, Setting up the Project** <br>
+# **Step 2, Setting up the Project** <br>
+---
 - Open the remix file under the "My Stuff" section in your account.
 - Now that you are inside the file, look to the right side of the screen where it says "sprites"
 - There are going to be many sprites, but the main sprite you are going to be messing with is called "Question"
@@ -40,7 +41,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - Change the text on each costume to the sprite names you chose, this will make the game ask the user the question of which sprite to click on.
 
 
-**Step 3, Changing the Code** <br>
+# **Step 3, Changing the Code** <br>
+---
 - Luckly for you, if you get confused with what the code does, I commented almost all of the code to tell you what it does. Before you change anything, I would recommend that you read my comments first.
 - Most of this code does NOT need to be touched, the only code you need to mess with is code that uses the variables: Points, Global CostumePicker, and Random Number.
 - Look at the amount of sprites you have, change "random number to pick a number between 1 and (the amount of sprites you have).<br>
@@ -53,7 +55,8 @@ This quiz was made using scratch. All of the core mechanics of the game are all 
 - This should be it for coding.
 
 
-**Step 4, Updating the Website** <br>
+# **Step 4, Updating the Website** <br>
+---
 - The way that the vet students access this game is through a website we made, the scratch project is embeded into html through an iframe tag. If that sounds like a lot, don't worry, its just a lot of copying and pasting.
 - Go to this github [Repo](https://github.com/SICTCCS/AnimalQuiz), this is where the website is being hosted.
 - Click the green "Code" button then you should have the option to download the website code as a zip file.
